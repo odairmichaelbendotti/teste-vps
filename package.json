@@ -1,10 +1,11 @@
 {
+  "type": "module",
   "name": "teste-vps",
   "version": "1.0.0",
   "description": "ola.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/devcodepro-br/teste-vps/issues"
   },
-  "homepage": "https://github.com/devcodepro-br/teste-vps#readme"
+  "homepage": "https://github.com/devcodepro-br/teste-vps#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
