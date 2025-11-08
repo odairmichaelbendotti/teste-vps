@@ -1,0 +1,20 @@
+{
+  "name": "teste-vps",
+  "version": "1.0.0",
+  "description": "ola.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcodepro-br/teste-vps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcodepro-br/teste-vps/issues"
+  },
+  "homepage": "https://github.com/devcodepro-br/teste-vps#readme"
+}
